@@ -141,6 +141,3 @@ OUTPUT_DIR/
 ```
 
 Metrics logged: **accuracy**, **weighted F1**, cross-entropy loss.
-README.md
-
-copilot
